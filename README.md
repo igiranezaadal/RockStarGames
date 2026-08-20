@@ -1,2 +1,5 @@
+# This is for education purposes only
+
 # RockStarGames
-test
+the link of cloning: https://store.rockstargames.com/
+
