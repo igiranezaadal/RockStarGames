@@ -1,0 +1,25 @@
+{
+  "name": "rockstargames",
+  "version": "1.0.0",
+  "description": "the link of cloning: https://store.rockstargames.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igiranezaadal/RockStarGames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/igiranezaadal/RockStarGames/issues"
+  },
+  "homepage": "https://github.com/igiranezaadal/RockStarGames#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
